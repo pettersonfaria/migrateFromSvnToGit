@@ -1,0 +1,3 @@
+# Cadastre os usu&aacute;rios existentes nos projetos no arquivo 'usuarios-svn'
+# Fa&ccedil;a o mesmo para os projetos no arquivo 'projetos-svn'
+# Ajuste path, url, usu&aacute;rio e senha no 'migracao.sh' e rode o script
